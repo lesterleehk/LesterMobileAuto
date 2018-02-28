@@ -1,0 +1,16 @@
+resource-id:com.eventxtra.eventx:id/btnSignIn
+click
+resource-id:com.eventxtra.eventx:id/etEmail
+filltext:yuenlee.hk@gmail.com
+
+resource-id:com.eventxtra.eventx:id/btnSignIn
+click
+
+resource-id:com.eventxtra.eventx:id/etPassword
+filltext:12345678
+
+resource-id:com.eventxtra.eventx:id/btnSignIn
+click
+
+resource-id:android:id/button1
+click
